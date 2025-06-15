@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-n-vgrl^#zd3_m^$v@rfogy1$%23pg&9b=m6n*lsml6h*9&o=2z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lotusvize.com', '127.0.0.1']
 
 
 # Application definition
